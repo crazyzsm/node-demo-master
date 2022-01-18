@@ -1,0 +1,22 @@
+
+### 目录说明
+    |-- bin 
+        |-- www.js
+    |-- node_modules
+    |-- src
+        |-- conf：mysql和redis数据库配置文件
+            |-- db.js
+        |-- controller：各个模块的接口对应的操作数据库逻辑代码
+            |-- blog.js
+            |-- user.js
+        |-- db：封装mysql和redis的公用方法
+            |-- mysql.js
+            |-- redis.js
+        |-- model：封装接口数据返回方法
+            |-- resModel.js
+        |-- router：各个模块接口匹配
+            |-- blog.js
+            |-- user.js
+    |-- app.js
+    |-- package.json
+    |-- README.md

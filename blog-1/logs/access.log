@@ -1,0 +1,11 @@
+GET -- /api/user/login?username=zhangsan&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642042384717
+GET -- /api/user/login?username=zhangsan&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642042389408
+GET -- /api/user/login?username=zhangsan&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642042391340
+GET -- /api/user/login?username=zhangsan&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044551379
+GET -- /api/user/login?username=zhangsan%27--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044599936
+GET -- /api/user/login?username=zhangsan%27--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044646375
+GET -- /api/user/login?username=zhangsan%27--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044674918
+GET -- /api/user/login?username=zhangsan%2727--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044705658
+GET -- /api/user/login?username=zhangsan%2727--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044717064
+GET -- /api/user/login?username=zhangsan%2727--&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044721247
+GET -- /api/user/login?username=zhangsan&password=a123456 -- Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 -- 1642044734862
